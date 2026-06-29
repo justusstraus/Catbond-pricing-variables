@@ -1,0 +1,5 @@
+trigger_type,n,avg_spread_pct,median_spread_pct,avg_expected_loss_pct
+Industry loss index,38,9.088815789473685,8.25,4.440789473684211
+Indemnity,110,6.62090909090909,5.6875,2.30653
+Parametric,4,5.68125,5.675,2.1975
+Parametric/Index,1,5.5,5.5,3.22
